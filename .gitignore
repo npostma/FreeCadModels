@@ -1,0 +1,11 @@
+# FreeCAD backup/temp files
+*.FCBak
+*.FCStd1
+*.fcstd.bak
+*.FCStd.bak
+*~
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
